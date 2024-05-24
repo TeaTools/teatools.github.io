@@ -68,7 +68,7 @@ async function config() {
       socialLinks: [
         {
           icon: "github",
-          link: "https://github.com/tea-blog/tea-blog.github.io",
+          link: "https://github.com/TeaTools/TeaTools.github.io",
         },
         // { icon: "twitter", link: "https://twitter.com/qingshuihe1" },
         // {

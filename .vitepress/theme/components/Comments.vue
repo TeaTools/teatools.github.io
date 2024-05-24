@@ -15,7 +15,7 @@ const gitalk = new Gitalk({
     clientSecret: "80cbd3ead32aac4722bb7dc299079e6bd9ef6958",
     repo: "teatools.github.io",
     owner: "teatools",
-    admin: ["teatools"],
+    admin: ["tea-blog"],
     id: location.pathname.substring(0, 50), // Ensure uniqueness and length less than 50
     language: "zh-CN",
     distractionFreeMode: true, // Facebook-like distraction free mode
