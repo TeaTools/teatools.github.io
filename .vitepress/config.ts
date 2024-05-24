@@ -53,8 +53,8 @@ async function config() {
           link: "/",
         },
         {
-          text: "👨🏻‍💻AutoSyncBlog",
-          link: "https://tea-blog.github.io/auto-sync-blog",
+          text: "👨🏻‍💻自动化部署博客",
+          link: "https://TeaTools.github.io/auto-sync-blog",
         },
         {
           text: "👣留言墙",
