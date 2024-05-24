@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tea Blog",
+    "home_page_url": "https://clark-cui.top/",
+    "feed_url": "https://clark-cui.top/feed.json",
+    "description": "Tea Blog' Blog",
+    "icon": "https://clark-cui.top/horse.svg",
+    "author": {
+        "name": "Tea Blog",
+        "url": "https://clark-cui.top"
+    },
+    "items": [
+        {
+            "content_html": "<h1>作品</h1>\n<p><a href=\"https://github.com/tea-blog/auto-sync-blog\">自动化同步文章平台（auto-sync-blog）</a>： <a href=\"https://github.com/tea-blog/auto-sync-blog\">https://github.com/tea-blog/auto-sync-blog</a></p>\n<h1>语录</h1>\n<p>茶博客，一个休闲娱乐的小地方。</p>\n",
+            "url": "https://clark-cui.top/posts/关于.html",
+            "title": "关于",
+            "summary": "关于",
+            "date_modified": "2024-05-24T00:00:00.000Z",
+            "author": {
+                "name": "Tea Blog",
+                "url": "https://clark-cui.top"
+            }
+        }
+    ]
+}

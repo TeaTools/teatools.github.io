@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://clark-cui.top/</id>
+    <title>Tea Blog</title>
+    <updated>2024-05-24T03:19:37.081Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Tea Blog</name>
+        <email>rongchuancui@gmail.com</email>
+        <uri>https://clark-cui.top</uri>
+    </author>
+    <link rel="alternate" href="https://clark-cui.top/"/>
+    <link rel="self" href="https://clark-cui.top/feed.atom"/>
+    <subtitle>Tea Blog' Blog</subtitle>
+    <logo>https://clark-cui.top/horse.svg</logo>
+    <icon>https://clark-cui.top/horse.svg</icon>
+    <rights>MIT License</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://clark-cui.top/posts/关于.html</id>
+        <link href="https://clark-cui.top/posts/关于.html"/>
+        <updated>2024-05-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[关于]]></summary>
+        <content type="html"><![CDATA[<h1>作品</h1>
+<p><a href="https://github.com/tea-blog/auto-sync-blog">自动化同步文章平台（auto-sync-blog）</a>： <a href="https://github.com/tea-blog/auto-sync-blog">https://github.com/tea-blog/auto-sync-blog</a></p>
+<h1>语录</h1>
+<p>茶博客，一个休闲娱乐的小地方。</p>
+]]></content>
+        <author>
+            <name>Tea Blog</name>
+            <email>rongchuancui@gmail.com</email>
+            <uri>https://clark-cui.top</uri>
+        </author>
+    </entry>
+</feed>

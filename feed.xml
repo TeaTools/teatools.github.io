@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tea Blog</title>
+        <link>https://clark-cui.top/</link>
+        <description>Tea Blog' Blog</description>
+        <lastBuildDate>Fri, 24 May 2024 03:19:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Tea Blog</title>
+            <url>https://clark-cui.top/horse.svg</url>
+            <link>https://clark-cui.top/</link>
+        </image>
+        <copyright>MIT License</copyright>
+        <atom:link href="https://clark-cui.top/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[关于]]></title>
+            <link>https://clark-cui.top/posts/关于.html</link>
+            <guid>https://clark-cui.top/posts/关于.html</guid>
+            <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[关于]]></description>
+            <content:encoded><![CDATA[<h1>作品</h1>
+<p><a href="https://github.com/tea-blog/auto-sync-blog">自动化同步文章平台（auto-sync-blog）</a>： <a href="https://github.com/tea-blog/auto-sync-blog">https://github.com/tea-blog/auto-sync-blog</a></p>
+<h1>语录</h1>
+<p>茶博客，一个休闲娱乐的小地方。</p>
+]]></content:encoded>
+            <author>rongchuancui@gmail.com (Tea Blog)</author>
+        </item>
+    </channel>
+</rss>
