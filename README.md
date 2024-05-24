@@ -1,5 +1,5 @@
 ## 项目介绍
-茶博客的博客化介绍
+茶工具的博客化介绍
 
 项目参考
 - [vitepress-blog-zaun](https://github.com/clark-cui/vitepress-blog-zaun)

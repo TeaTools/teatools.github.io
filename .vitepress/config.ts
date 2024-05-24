@@ -4,7 +4,7 @@ import { buildBlogRSS } from "./theme/rss";
 async function config() {
   return {
     lang: "zh-CN",
-    title: "茶博客",
+    title: "茶工具",
     description: "Home of Tea Blog",
     head: [
       [
@@ -52,10 +52,10 @@ async function config() {
           text: "🏡我的首页",
           link: "/",
         },
-        // {
-        //   text: "📃时间分类",
-        //   link: "/archives",
-        // },
+        {
+          text: "👨🏻‍💻AutoSyncBlog",
+          link: "https://tea-blog.github.io/auto-sync-blog",
+        },
         {
           text: "👣留言墙",
           link: "/tab/footprint",

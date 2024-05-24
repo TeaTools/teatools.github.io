@@ -5,5 +5,6 @@ aside: false
 ---
 
 <center>
-<img src="/public/logo-tea.png" alt="茶博客 logo" />
+<img src="/public/logo-tea.png" alt="茶工具 logo" />
 </center>
+<div style="border-bottom: 1px dashed #c7c7c7;"></div>

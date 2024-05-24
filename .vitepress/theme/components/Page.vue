@@ -2,16 +2,16 @@
     <ShareCard />
     <h1 class="blog-title">作品👇</h1>
     <!-- <div class="blogList">
-                <a class="blog" v-for="item in posts" :href="withBase(item.regularPath)">
-                    <div class="title">{{ item.frontMatter.title }}</div>
-                    <div class="date">{{ transDate(item.frontMatter.date) }}</div>
-                </a>
-            </div>
-            <div class="pagination">
-                <div class="link" :class="{ activeLink: pageCurrent === i }" v-for="i in pagesNum" :key="i" @click="go(i)">
-                    {{ i }}
+                    <a class="blog" v-for="item in posts" :href="withBase(item.regularPath)">
+                        <div class="title">{{ item.frontMatter.title }}</div>
+                        <div class="date">{{ transDate(item.frontMatter.date) }}</div>
+                    </a>
                 </div>
-            </div> -->
+                <div class="pagination">
+                    <div class="link" :class="{ activeLink: pageCurrent === i }" v-for="i in pagesNum" :key="i" @click="go(i)">
+                        {{ i }}
+                    </div>
+                </div> -->
     <div class="blogList">
         <a class="blog" v-for="item in posts" :href="item.regularPath" target="_blank">
             <div class="title">{{ item.frontMatter.title }}</div>
@@ -21,7 +21,6 @@
 </template>
 
 <script lang="ts" setup>
-
 const date = new Date().getFullYear();
 interface post {
     regularPath: string;
@@ -37,7 +36,10 @@ const { theme } = useData();
 console.log(theme.value.posts);
 let postsAll = [{
     regularPath: "https://github.com/TeaTools/auto-sync-blog",
-    frontMatter: { title: "Auto-Sync-Blog（自动化部署博客）", date: "2023-02-02" },
+    frontMatter: { title: "【Project】Auto Sync Blog（自动化部署博客）", date: "2023-02-02" },
+}, {
+    regularPath: "https://TeaTools.github.io/auto-sync-blog",
+    frontMatter: { title: "【Team】TeaTools Team（茶工具团队介绍）", date: "2022-06-07" },
 }, ];
 // get postLength
 let postLength = theme.value.postLength;
