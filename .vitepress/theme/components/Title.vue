@@ -1,6 +1,7 @@
 <template>
   <h1 class="title">{{ title }}</h1>
-  <div class="date">🕒 创作时间: {{ publishDate }}</div>
+  <div class="date" v-if="frontmatter.date">🕒 创作时间: {{ publishDate }}</div>
+  <div style="border-bottom: 1px dashed #c7c7c7;"></div>
   <!-- <div class="description">{{ description }}</div> -->
 </template>
 <script lang="ts" setup>
@@ -39,6 +40,5 @@ const publishDate = dayjs().to(dayjs(frontmatter.date || Date.now()));
   line-height: 1.25rem;
   margin-bottom: 1em;
   padding-bottom: 1em;
-  border-bottom: 1px dashed #c7c7c7;
 }
 </style>

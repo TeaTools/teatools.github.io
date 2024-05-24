@@ -58,7 +58,7 @@ async function config() {
         // },
         {
           text: "👣留言墙",
-          link: "/archives",
+          link: "/tab/footprint",
         },
         // {
         //   text: "🔥RSS",
