@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a}from"./app.7d85f325.js";const f=JSON.parse('{"title":"留言墙","description":"留言墙","frontmatter":{"title":"留言墙","description":"留言墙","aside":false,"date":"2024-05-24T00:00:00.000Z"},"headers":[],"relativePath":"archives.md"}'),r={name:"archives.md"};function s(c,o,i,n,d,p){return t(),a("div")}const l=e(r,[["render",s]]);export{f as __pageData,l as default};
