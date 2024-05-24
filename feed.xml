@@ -4,7 +4,7 @@
         <title>Tea Blog</title>
         <link>https://clark-cui.top/</link>
         <description>Tea Blog' Blog</description>
-        <lastBuildDate>Fri, 24 May 2024 04:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 05:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -21,9 +21,9 @@
             <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[关于]]></description>
             <content:encoded><![CDATA[<h1>作品</h1>
-<p><a href="https://github.com/tea-blog/auto-sync-blog">自动化同步文章平台（auto-sync-blog）</a>： <a href="https://github.com/tea-blog/auto-sync-blog">https://github.com/tea-blog/auto-sync-blog</a></p>
+<p><a href="https://github.com/TeaTools/auto-sync-blog">自动化同步文章平台（auto-sync-blog）</a>： <a href="https://github.com/TeaTools/auto-sync-blog">https://github.com/TeaTools/auto-sync-blog</a></p>
 <h1>语录</h1>
-<p>茶博客，一个休闲娱乐的小地方。</p>
+<p>南方者，一个热爱计算机更热爱祖国的南方人。</p>
 ]]></content:encoded>
             <author>rongchuancui@gmail.com (Tea Blog)</author>
         </item>

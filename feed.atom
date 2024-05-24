@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://clark-cui.top/</id>
     <title>Tea Blog</title>
-    <updated>2024-05-24T04:41:44.264Z</updated>
+    <updated>2024-05-24T05:18:26.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Tea Blog</name>
@@ -22,9 +22,9 @@
         <updated>2024-05-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[关于]]></summary>
         <content type="html"><![CDATA[<h1>作品</h1>
-<p><a href="https://github.com/tea-blog/auto-sync-blog">自动化同步文章平台（auto-sync-blog）</a>： <a href="https://github.com/tea-blog/auto-sync-blog">https://github.com/tea-blog/auto-sync-blog</a></p>
+<p><a href="https://github.com/TeaTools/auto-sync-blog">自动化同步文章平台（auto-sync-blog）</a>： <a href="https://github.com/TeaTools/auto-sync-blog">https://github.com/TeaTools/auto-sync-blog</a></p>
 <h1>语录</h1>
-<p>茶博客，一个休闲娱乐的小地方。</p>
+<p>南方者，一个热爱计算机更热爱祖国的南方人。</p>
 ]]></content>
         <author>
             <name>Tea Blog</name>

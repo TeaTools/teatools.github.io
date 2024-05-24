@@ -11,7 +11,7 @@
     },
     "items": [
         {
-            "content_html": "<h1>作品</h1>\n<p><a href=\"https://github.com/tea-blog/auto-sync-blog\">自动化同步文章平台（auto-sync-blog）</a>： <a href=\"https://github.com/tea-blog/auto-sync-blog\">https://github.com/tea-blog/auto-sync-blog</a></p>\n<h1>语录</h1>\n<p>茶博客，一个休闲娱乐的小地方。</p>\n",
+            "content_html": "<h1>作品</h1>\n<p><a href=\"https://github.com/TeaTools/auto-sync-blog\">自动化同步文章平台（auto-sync-blog）</a>： <a href=\"https://github.com/TeaTools/auto-sync-blog\">https://github.com/TeaTools/auto-sync-blog</a></p>\n<h1>语录</h1>\n<p>南方者，一个热爱计算机更热爱祖国的南方人。</p>\n",
             "url": "https://clark-cui.top/posts/关于.html",
             "title": "关于",
             "summary": "关于",
